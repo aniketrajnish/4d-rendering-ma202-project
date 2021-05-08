@@ -5,4 +5,4 @@ Rendering a 4D hypercube using projection and rotation matrices (and hardcoded c
 2. Unzip
 3. Open index.html
 
-*source code in sketch.js*
+*Source code in sketch.js*
